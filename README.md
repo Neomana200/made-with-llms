@@ -1,10 +1,9 @@
 # made-with-llms
 
-This repository is a collection of coding projects generated using Large Language Models (LLMs), primarily with Gemini 1.5. It demonstrates the power of prompt engineering and AI in generating code across various domains.
+This repository is a collection of coding projects generated using Large Language Models (LLMs), primarily with Open Source Models. It demonstrates the power of prompt engineering and AI in generating code across various domains.
 
 ## Key Highlights:
  * Diverse Projects: Explore a range of code examples, from simple scripts to complex algorithms.
- * Gemini 1.5 Focus: Most projects leverage the capabilities of Gemini 1.5.
  * Learning Resource: Gain insights into how to effectively use LLMs for code generation.
  * Community Contributions: We welcome contributions and collaborations to expand this showcase.
 
